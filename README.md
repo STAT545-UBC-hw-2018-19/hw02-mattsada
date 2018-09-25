@@ -12,14 +12,16 @@ Welcome, this is my personal repository for the second assignment in **STAT545**
 -   R markdown cheat-sheets can be found [here](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf "Cheat-sheet 1") and [here.](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf "Cheat sheet 2")
 -   Markdown cheat-sheet can be found [here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-sheet")
 -   The `ggplot2` cheat-sheet can be found [here.](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf "ggplot2 Cheat-sheet")
+-   Colour codes for plotting can be found [here.](http://sape.inf.usi.ch/quick-reference/ggplot2/colour "Colour Codes")
+-   cheat-sheet for knitr can be found [here.](https://cran.r-project.org/web/packages/knitr/vignettes/knitr-refcard.pdf "knitr Cheat Sheet")
 
 ## R markdown for Gapminder exploration
 The `gapminder` dataset is a massive UN database that compares the populations, gdp per capita, and life expectancy for most countries in 5 year incriments between 1952 and 2007. For initial exploratory analysis on this dataset and R markdown source code follow links in table bellow. 
 
 | **Title** | **Format** | **Link** |
 | --------- |------------|----------|
-|Gapminder dataset exploration|Markdown (.md)| [link]()|
-|R markdown source code|R markdown (.Rmd)| [link]()|
+|Gapminder dataset exploration|Markdown (.md)| [link](https://github.com/STAT545-UBC-students/hw02-mattsada/blob/master/hw02_ExploreGapminderAndUseDplyr.md)|
+|R markdown source code|R markdown (.Rmd)| [link](https://github.com/STAT545-UBC-students/hw02-mattsada/blob/master/hw02_ExploreGapminderAndUseDplyr.Rmd)|
 
 ## Reflections and thoughts
 All changes was made in Rstudio (Version 1.1.453) and then pushed to Github. 
